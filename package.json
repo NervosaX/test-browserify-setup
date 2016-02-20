@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "start": "beefy src/index.js",
+    "start": "beefy src/mylib.js",
     "build": "browserify src/index.js --s myGlobal > index.min.js"
   },
   "keywords": [],
