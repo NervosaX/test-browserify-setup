@@ -1,0 +1,3 @@
+const {default: test} = require("./test");
+
+module.exports = test;
